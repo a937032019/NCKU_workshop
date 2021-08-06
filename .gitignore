@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+#暫存檔、更新指令記錄
+#不需要被記錄的檔案可放在.gitigore
+
 __pycache__/
 *.py[cod]
 *$py.class
